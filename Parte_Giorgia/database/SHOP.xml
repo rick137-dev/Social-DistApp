@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-01-07T19:16:02">
+<SHOP>
+<Shop_x0020_ID>1</Shop_x0020_ID>
+<Category>Clothing store</Category>
+<Name>Dixie</Name>
+<Phone_x0020_number>080934288</Phone_x0020_number>
+<Username>gaia_garofalo</Username>
+<Floor_x0020_Area>110</Floor_x0020_Area>
+<Personnel>3</Personnel>
+</SHOP>
+<SHOP>
+<Shop_x0020_ID>2</Shop_x0020_ID>
+<Category>Herbalist shop</Category>
+<Name>Herbal Remedies</Name>
+<Phone_x0020_number>0883456786</Phone_x0020_number>
+<Username>tacc_vito</Username>
+<Floor_x0020_Area>60</Floor_x0020_Area>
+<Personnel>1</Personnel>
+</SHOP>
+<SHOP>
+<Shop_x0020_ID>3</Shop_x0020_ID>
+<Category>Cosmetics</Category>
+<Name>Nyx Cosmetics</Name>
+<Phone_x0020_number>3356745223</Phone_x0020_number>
+<Username>tacc_vito</Username>
+<Floor_x0020_Area>85</Floor_x0020_Area>
+<Personnel>2</Personnel>
+</SHOP>
+<SHOP>
+<Shop_x0020_ID>4</Shop_x0020_ID>
+<Category>Gym</Category>
+<Name>Health&amp;Fitness</Name>
+<Phone_x0020_number>3356722897</Phone_x0020_number>
+<Username>me.simon</Username>
+<Floor_x0020_Area>160</Floor_x0020_Area>
+<Personnel>7</Personnel>
+</SHOP>
+</dataroot>

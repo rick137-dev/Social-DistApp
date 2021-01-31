@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-01-07T19:16:09">
+<SHOP_x0020_ARTICLES>
+<Article_x0020_Code>1</Article_x0020_Code>
+<Name>T-shirt 088, Blu Avio, Cotone</Name>
+<Quantity>3</Quantity>
+<Price>25</Price>
+<Shop_x0020_ID>1</Shop_x0020_ID>
+</SHOP_x0020_ARTICLES>
+<SHOP_x0020_ARTICLES>
+<Article_x0020_Code>2</Article_x0020_Code>
+<Name>Tapis Roulant 009</Name>
+<Price>6/30 min</Price>
+<Shop_x0020_ID>4</Shop_x0020_ID>
+</SHOP_x0020_ARTICLES>
+<SHOP_x0020_ARTICLES>
+<Article_x0020_Code>3</Article_x0020_Code>
+<Name>Eye-liner 002</Name>
+<Quantity>2</Quantity>
+<Price>8</Price>
+<Shop_x0020_ID>3</Shop_x0020_ID>
+</SHOP_x0020_ARTICLES>
+<SHOP_x0020_ARTICLES>
+<Article_x0020_Code>4</Article_x0020_Code>
+<Name>Eye-Pencil 64 brown</Name>
+<Quantity>1</Quantity>
+<Price>7</Price>
+<Shop_x0020_ID>3</Shop_x0020_ID>
+</SHOP_x0020_ARTICLES>
+<SHOP_x0020_ARTICLES>
+<Article_x0020_Code>5</Article_x0020_Code>
+<Name>Eye-Pencil 64 black</Name>
+<Quantity>6</Quantity>
+<Price>7.50</Price>
+<Shop_x0020_ID>3</Shop_x0020_ID>
+</SHOP_x0020_ARTICLES>
+<SHOP_x0020_ARTICLES>
+<Article_x0020_Code>6</Article_x0020_Code>
+<Name>Cyclette 002</Name>
+<Price>6/30 min</Price>
+<Shop_x0020_ID>4</Shop_x0020_ID>
+</SHOP_x0020_ARTICLES>
+<SHOP_x0020_ARTICLES>
+<Article_x0020_Code>7</Article_x0020_Code>
+<Name>Levi&apos;s Jeans 34Ny3</Name>
+<Quantity>2</Quantity>
+<Price>50</Price>
+<Shop_x0020_ID>1</Shop_x0020_ID>
+</SHOP_x0020_ARTICLES>
+</dataroot>

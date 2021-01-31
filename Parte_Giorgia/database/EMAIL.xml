@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2021-01-07T19:15:29">
+<EMAIL>
+<Email_x0020_ID>1</Email_x0020_ID>
+<Date>2020-12-28T00:00:00</Date>
+<Text>Hey, your order has been confirmed! You can pick it up at the time you selected. TimeKeep team</Text>
+<Request_x0020_ID>1</Request_x0020_ID>
+</EMAIL>
+<EMAIL>
+<Email_x0020_ID>2</Email_x0020_ID>
+<Date>2020-12-28T00:00:00</Date>
+<Text>Are you ready to train yourself to the best here at Health&amp;Fitness? Your reservation is confirmed, we await you!</Text>
+<Request_x0020_ID>2</Request_x0020_ID>
+</EMAIL>
+</dataroot>

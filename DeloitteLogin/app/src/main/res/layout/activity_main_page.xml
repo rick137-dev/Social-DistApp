@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".mainPage">
+
+
+    <include
+        android:id="@+id/include2"
+        layout="@layout/content_main_page"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="-228dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="388dp"
+        android:layout_height="208dp"
+        android:contentDescription="@string/todo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/timekeep" />
+
+    <Button
+        android:id="@+id/reservationsbutton"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="424dp"
+        android:layout_height="99dp"
+        android:text="Reservations"
+        app:backgroundTint="#7DD5FD"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nearyoubutton"
+        app:layout_constraintVertical_bias="0.086" />
+
+    <Button
+        android:id="@+id/nearyoubutton"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="424dp"
+        android:layout_height="99dp"
+        android:text="Near You"
+        app:backgroundTint="#7DD5FD"
+        app:layout_constraintBottom_toBottomOf="@+id/include2"
+        app:layout_constraintEnd_toEndOf="@+id/include2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4"
+        app:layout_constraintVertical_bias="0.286" />
+
+    <ImageButton
+        android:id="@+id/mapButton"
+        android:layout_width="424dp"
+        android:layout_height="99dp"
+        app:layout_constraintBottom_toBottomOf="@+id/include2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.333"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/reservationsbutton"
+        app:layout_constraintVertical_bias="0.338"
+        app:srcCompat="@drawable/mapimage" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="396dp"
+        android:layout_height="75dp"
+        app:layout_constraintBottom_toBottomOf="@+id/include2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/reservationsbutton"
+        app:layout_constraintVertical_bias="0.364"
+        app:srcCompat="@drawable/mapstext" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="337dp"
+        android:layout_height="122dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4"
+        app:srcCompat="@drawable/welcome" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

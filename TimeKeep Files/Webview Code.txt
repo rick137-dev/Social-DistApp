@@ -1,0 +1,8 @@
+val myWebView: WebView = findViewById(R.id.webview)
+        myWebView.loadUrl("https://blockathonteam.wixsite.com/website")
+
+
+           val mapbut =findViewById<Button>(R.id.mapButton)
+        mapbut.setOnClickListener{
+            val fintent = Intent(this, MapsActivity::class.java)
+            startActivity(fintent)

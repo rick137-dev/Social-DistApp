@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+<TIMESLOT>
+<Client>Gioacchina Vivardi</Client>
+<Start>09:00</Start>
+<End>09:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Tiburzio Vanza</Client>
+<Start>09:00</Start>
+<End>09:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Avelio Toninelli</Client>
+<Start>09:00</Start>
+<End>09:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Egea Zaccagno</Client>
+<Start>09:00</Start>
+<End>09:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Ultimina Cortenova</Client>
+<Start>09:00</Start>
+<End>09:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Beno Ferrazzolo</Client>
+<Start>09:00</Start>
+<End>09:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Erennio Traversi</Client>
+<Start>09:00</Start>
+<End>09:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Vladislavo Ditrani</Client>
+<Start>09:10</Start>
+<End>09:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Varniero Cornelio</Client>
+<Start>09:20</Start>
+<End>09:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Ilio Tassetto</Client>
+<Start>09:20</Start>
+<End>09:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Fidelia Sarotti</Client>
+<Start>09:30</Start>
+<End>09:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Paladino Scalzone</Client>
+<Start>09:30</Start>
+<End>09:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Wera Lazzarotto</Client>
+<Start>09:30</Start>
+<End>09:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Ramondo Mariotto</Client>
+<Start>09:40</Start>
+<End>10:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Galatea Milioni</Client>
+<Start>09:40</Start>
+<End>10:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Raffalele Buccianti</Client>
+<Start>09:40</Start>
+<End>10:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Golfredo Piroddi</Client>
+<Start>09:40</Start>
+<End>10:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Carluccia Mancin</Client>
+<Start>09:50</Start>
+<End>10:10</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Algeo Bottazzi</Client>
+<Start>09:50</Start>
+<End>10:10</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Artico Cedri</Client>
+<Start>09:50</Start>
+<End>10:10</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Gaetano Tucceri</Client>
+<Start>10:00</Start>
+<End>10:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Orelio Carmine</Client>
+<Start>10:00</Start>
+<End>10:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Pino Acquarone</Client>
+<Start>10:10</Start>
+<End>10:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Aspasio Catozzo</Client>
+<Start>10:10</Start>
+<End>10:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Olimpo Marosi</Client>
+<Start>10:10</Start>
+<End>10:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Sigifredo Anfosso</Client>
+<Start>10:10</Start>
+<End>10:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Clario Musello</Client>
+<Start>10:20</Start>
+<End>10:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Cleanto Sonzogni</Client>
+<Start>10:30</Start>
+<End>10:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Selvino Cianfrone</Client>
+<Start>10:30</Start>
+<End>10:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Felicina Bellentani</Client>
+<Start>10:30</Start>
+<End>10:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Orazia Maritati</Client>
+<Start>10:30</Start>
+<End>10:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Federico Perro</Client>
+<Start>10:40</Start>
+<End>11:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Ester Limonta</Client>
+<Start>10:40</Start>
+<End>11:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Jonio Caponeri</Client>
+<Start>11:00</Start>
+<End>11:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Fiero Albertini</Client>
+<Start>11:00</Start>
+<End>11:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Emeria Naggi</Client>
+<Start>11:00</Start>
+<End>11:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Rames Mitrani</Client>
+<Start>11:00</Start>
+<End>11:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Brillante Moscone</Client>
+<Start>11:10</Start>
+<End>11:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Omera Cortese</Client>
+<Start>11:10</Start>
+<End>11:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Gallo Felletto</Client>
+<Start>11:20</Start>
+<End>11:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Finizia Sperone</Client>
+<Start>11:20</Start>
+<End>11:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Tullia Zillino</Client>
+<Start>11:20</Start>
+<End>11:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Annito Petrini</Client>
+<Start>11:20</Start>
+<End>11:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Alido Martinenghi</Client>
+<Start>11:30</Start>
+<End>11:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Florentino Chiapuzzo</Client>
+<Start>11:30</Start>
+<End>11:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Quinzio Iannuzzelli</Client>
+<Start>11:40</Start>
+<End>12:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Ermilda Bellintani</Client>
+<Start>11:50</Start>
+<End>12:10</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Auretta Mineo</Client>
+<Start>12:00</Start>
+<End>12:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Oliba Tinetti</Client>
+<Start>12:10</Start>
+<End>12:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Natalio Artizzu</Client>
+<Start>12:10</Start>
+<End>12:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Osvaldo Romita</Client>
+<Start>12:10</Start>
+<End>12:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Nilo Panzin</Client>
+<Start>12:20</Start>
+<End>12:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Vivaldo Caldi</Client>
+<Start>12:20</Start>
+<End>12:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Alessandrina Frignati</Client>
+<Start>12:30</Start>
+<End>12:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Ovelia Avesano</Client>
+<Start>12:30</Start>
+<End>12:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Claro Missaglia</Client>
+<Start>12:30</Start>
+<End>12:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Atto Sacchini</Client>
+<Start>12:30</Start>
+<End>12:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Ombellina Padoani</Client>
+<Start>12:40</Start>
+<End>13:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Atalia Centinaio</Client>
+<Start>12:40</Start>
+<End>13:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Orleo Spedaliere</Client>
+<Start>12:40</Start>
+<End>13:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Ardo Chirotti</Client>
+<Start>12:40</Start>
+<End>13:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Zulino Tito</Client>
+<Start>15:00</Start>
+<End>15:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Ugone Nelli</Client>
+<Start>15:00</Start>
+<End>15:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Antonia Burchio</Client>
+<Start>15:00</Start>
+<End>15:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Torino Alessandria</Client>
+<Start>15:10</Start>
+<End>15:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Rofilo Accursi</Client>
+<Start>15:10</Start>
+<End>15:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Alduino Niso</Client>
+<Start>15:10</Start>
+<End>15:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Assunto Zaoli</Client>
+<Start>15:10</Start>
+<End>15:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Ostilio Barattini</Client>
+<Start>15:10</Start>
+<End>15:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Amanda Martello</Client>
+<Start>15:20</Start>
+<End>15:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Sinfarosa Bertuccio</Client>
+<Start>15:20</Start>
+<End>15:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Valchiria Miro</Client>
+<Start>15:20</Start>
+<End>15:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Onelde Caldarola</Client>
+<Start>15:30</Start>
+<End>15:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Uliano Guglietta</Client>
+<Start>15:30</Start>
+<End>15:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Wladimira Inzaghi</Client>
+<Start>15:30</Start>
+<End>15:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Denisa Allocchis</Client>
+<Start>15:30</Start>
+<End>15:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Norina Frigau</Client>
+<Start>15:40</Start>
+<End>16:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Urrigo Arlotti</Client>
+<Start>15:40</Start>
+<End>16:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Arceo Paletti</Client>
+<Start>15:50</Start>
+<End>16:10</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Olis Attardo</Client>
+<Start>15:50</Start>
+<End>16:10</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Osea Gallas</Client>
+<Start>15:50</Start>
+<End>16:10</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Taddeo Maschietti</Client>
+<Start>15:50</Start>
+<End>16:10</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Zeila Pannone</Client>
+<Start>16:00</Start>
+<End>16:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Fulberta Manelli</Client>
+<Start>16:00</Start>
+<End>16:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Adelasio Chianesi</Client>
+<Start>16:10</Start>
+<End>16:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Ginetta Chiola</Client>
+<Start>16:10</Start>
+<End>16:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Emanuella Gulinati</Client>
+<Start>16:20</Start>
+<End>16:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Giannandrea Ongania</Client>
+<Start>16:20</Start>
+<End>16:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Firmina Maesano</Client>
+<Start>16:20</Start>
+<End>16:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Vitantonia Somasco</Client>
+<Start>16:20</Start>
+<End>16:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Vana Baccelieri</Client>
+<Start>16:30</Start>
+<End>16:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Ando Todoni</Client>
+<Start>16:30</Start>
+<End>16:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Iolanda Salmistraro</Client>
+<Start>16:30</Start>
+<End>16:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Villermo Bresolin</Client>
+<Start>16:40</Start>
+<End>17:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Cristiano Bertelloni</Client>
+<Start>16:40</Start>
+<End>17:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Gionnina Cantalupi</Client>
+<Start>16:40</Start>
+<End>17:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Girlando Carobbio</Client>
+<Start>16:40</Start>
+<End>17:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Marilde Colleoni</Client>
+<Start>16:40</Start>
+<End>17:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Eufrosio Pecchio</Client>
+<Start>17:00</Start>
+<End>17:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Quintillia Sagini</Client>
+<Start>17:00</Start>
+<End>17:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Filoteo Lingiari</Client>
+<Start>17:00</Start>
+<End>17:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Reggiano Pinzauti</Client>
+<Start>17:00</Start>
+<End>17:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Ignazia Antonini</Client>
+<Start>17:00</Start>
+<End>17:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Flera Chiaramello</Client>
+<Start>17:10</Start>
+<End>17:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Romedio Nonis</Client>
+<Start>17:10</Start>
+<End>17:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Selva Bugoni</Client>
+<Start>17:10</Start>
+<End>17:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Ruello Crosa</Client>
+<Start>17:20</Start>
+<End>17:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Iosella Macchiavello</Client>
+<Start>17:20</Start>
+<End>17:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Cono Trosino</Client>
+<Start>17:20</Start>
+<End>17:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Domenica Airo</Client>
+<Start>17:20</Start>
+<End>17:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Osella Scucchia</Client>
+<Start>17:30</Start>
+<End>17:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Marisio Balconi</Client>
+<Start>17:40</Start>
+<End>18:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Ascania Rey</Client>
+<Start>17:40</Start>
+<End>18:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Materno Civitella</Client>
+<Start>17:40</Start>
+<End>18:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Ismene Galdino</Client>
+<Start>17:40</Start>
+<End>18:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Zolferino Paciello</Client>
+<Start>17:40</Start>
+<End>18:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Vita Matarresi</Client>
+<Start>17:50</Start>
+<End>18:10</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Terziano Magenta</Client>
+<Start>17:50</Start>
+<End>18:10</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Cadmo Salvagnin</Client>
+<Start>18:00</Start>
+<End>18:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Rovelio Surace</Client>
+<Start>18:00</Start>
+<End>18:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Elmireno Filosi</Client>
+<Start>18:00</Start>
+<End>18:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Faisa Trupia</Client>
+<Start>18:00</Start>
+<End>18:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Nuccia Balossi</Client>
+<Start>18:00</Start>
+<End>18:20</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Pomponio Salimbeni</Client>
+<Start>18:10</Start>
+<End>18:30</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Udina Lovisone</Client>
+<Start>18:20</Start>
+<End>18:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Lolo Degradi</Client>
+<Start>18:20</Start>
+<End>18:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Loretana Briozzi</Client>
+<Start>18:20</Start>
+<End>18:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Evangelina Suriani</Client>
+<Start>18:20</Start>
+<End>18:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Metardo Delpero</Client>
+<Start>18:20</Start>
+<End>18:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Volfrano Tanchis</Client>
+<Start>18:20</Start>
+<End>18:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Vittoriano Casablanca</Client>
+<Start>18:20</Start>
+<End>18:40</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Crisanto Anastasi</Client>
+<Start>18:30</Start>
+<End>18:50</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Cireno Camilluzzi</Client>
+<Start>18:40</Start>
+<End>19:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Eracleo Lonis</Client>
+<Start>18:40</Start>
+<End>19:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Slava Arino</Client>
+<Start>18:40</Start>
+<End>19:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Zefferino Turoni</Client>
+<Start>18:40</Start>
+<End>19:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Poldino Bertolazzi</Client>
+<Start>18:40</Start>
+<End>19:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Edmea Reati</Client>
+<Start>18:40</Start>
+<End>19:00</End>
+</TIMESLOT>
+<TIMESLOT>
+<Client>Alda Perizzi</Client>
+<Start>18:40</Start>
+<End>19:00</End>
+</TIMESLOT>
+</dataroot>
